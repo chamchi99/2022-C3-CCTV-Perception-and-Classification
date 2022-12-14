@@ -6,7 +6,7 @@
 
 <div align="center">
 <p>
-<img src="trackers/strong_sort/results/output_th025.gif" width="400"/> 
+<img src="imgs/sample_low.gif" width="400"/> 
 </p>
 </div>
 
@@ -65,10 +65,10 @@
 <details>
 <summary>객체 분류 모델(OSNet)</summary>
 
-* 
+* Multi-scale의 feature들으 효과적을 aggregation하는 방법론을 제안한 모델임
+* Moiblenet에서 제안한 Depthwise seperable convolution module을 사용하여 연산량을 줄임
+* 높은 차량간 분류 성능을 보유하며, 적은 연산량만을 필요로 하믈 해당 모델으 선정함 
 * 좀더 detail한 모형 설명은 [논문](https://arxiv.org/abs/1905.00953) 참고
-
-
 
   </details>
 
