@@ -21,7 +21,7 @@
 * 분류 알고리즘은 추적된 객체들을 자율차량인지 아닌지 분류함
 <div align="center">
 <p>
-<img src="imgs/flowchart3.png" width="800"/> 
+<img src="imgs/flowchart3.PNG" width="800"/> 
 </p>
 </div>
 
