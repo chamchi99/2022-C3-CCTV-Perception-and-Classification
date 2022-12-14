@@ -379,5 +379,5 @@ python track_cls.py --source sample.mp4 --yolo-weights weights/yolov5m.pt --appe
 
 # Contact
 한국전자기술연구원 모빌리티 플랫폼연구센터
-* 윤상훈 (Sanghoon Yoon) / shyoon11@keti.re.kr
-* 장수현 (Soohyun Jang)  / shjang@keti.re.kr 
+* 윤상훈 (Sanghoon Yoon) 책임연구원 / shyoon11@keti.re.kr
+* 장수현 (Soohyun Jang)  책임연구원 / shjang@keti.re.kr 
