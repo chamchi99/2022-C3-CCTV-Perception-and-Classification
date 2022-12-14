@@ -63,12 +63,18 @@
 
 
 <details>
-<summary>객체 분류 모델(OSNet)</summary>
+<summary>객체 분류 모델(OSNet)</summary><br>
 
-* Multi-scale의 feature들을 효과적을 aggregation하는 방법론을 제안한 모델임
-* 또한 Moiblenet에서 제안한 Depthwise seperable convolution module을 사용하여 연산량을 줄임
+* Multi-scale의 feature들을 효과적으로 aggregation하는 방법론을 제안한 모델임
+* Moiblenet에서 제안한 Depthwise seperable convolution module을 사용하여 연산량을 줄임
 * 높은 차량간 분류 성능과 함께 적은 연산량만을 필요로 하므로 해당 모델을 선정 
 * 좀더 detail한 모형 설명은 [논문](https://arxiv.org/abs/1905.00953) 참고
+
+<div align="center">
+<p>
+<img src="imgs/osnet_block.PNG" width="300"/> 
+</p>
+</div>
 
   </details>
 
@@ -186,10 +192,10 @@ yolov5/data/train
 
 #검증데이터
 yolov5/data/val
-    ㄴimages
+    ㄴimage
         ㄴimg1.jpg
         ㄴimg2.jpg
-    ㄴlabels
+    ㄴlabel
         ㄴlabel1.txt
         ㄴlabel2.txt
 ```
@@ -243,7 +249,7 @@ cd osnet_training/reid-data/cdataset # 해당 디렉토리에 학습데이터 �
 
 * 학습데이터 tree
 ```
-osnet_training/reid/cdataset
+osnet_training/reid-data/cdataset
     ㄴimages
         ㄴimg1.jpg
         ㄴimg2.jpg
