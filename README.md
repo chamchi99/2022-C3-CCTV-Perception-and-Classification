@@ -360,4 +360,17 @@ runs/track/exp #해당 디렉토리에 inference 결과 저장됨
 python track_cls.py --source sample.mp4 --yolo-weights weights/yolov5m.pt --appearance-descriptor-weights weights/osnet_x1_0_vehicle.pt --classes 2 5 7 --agnostic-nms --show-vid
 ```
 
+* 자율차 분류 inference 결과
+<div align="center">
+<p>
+<img src="imgs/av_cls_before.PNG" width="500"/> 
+</p>
+<p>
+<img src="imgs/av_cls_after.PNG" width="500"/> 
+</p>
+
+</div>
+
+
+
 </details>
