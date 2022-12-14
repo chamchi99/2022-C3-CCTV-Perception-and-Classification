@@ -65,9 +65,9 @@
 <details>
 <summary>객체 분류 모델(OSNet)</summary>
 
-* Multi-scale의 feature들으 효과적을 aggregation하는 방법론을 제안한 모델임
-* Moiblenet에서 제안한 Depthwise seperable convolution module을 사용하여 연산량을 줄임
-* 높은 차량간 분류 성능을 보유하며, 적은 연산량만을 필요로 하믈 해당 모델으 선정함 
+* Multi-scale의 feature들을 효과적을 aggregation하는 방법론을 제안한 모델임
+* 또한 Moiblenet에서 제안한 Depthwise seperable convolution module을 사용하여 연산량을 줄임
+* 높은 차량간 분류 성능과 함께 적은 연산량만을 필요로 하므로 해당 모델을 선정 
 * 좀더 detail한 모형 설명은 [논문](https://arxiv.org/abs/1905.00953) 참고
 
   </details>
@@ -234,10 +234,43 @@ yolov5/runs/train/exp #해당 디렉토리에 학습 결과 저장됨
 
 
 <details>
-<summary>객체 분류 모델 (OSNet) 학습</summary>
+<summary>객체 분류 모델 (OSNet) 학습</summary><br>
 
-  
-  </details>
+* 1차년도 학습데이터 [다운로드](https://github.com/chamchi99/2021-C3-CCTV-DB-on-RSU) 
+```
+cd osnet_training/reid-data/cdataset # 해당 디렉토리에 학습데이터 다운로드
+```
+
+* 학습데이터 tree
+```
+osnet_training/reid/cdataset
+    ㄴimages
+        ㄴimg1.jpg
+        ㄴimg2.jpg
+    ㄴlabels
+        ㄴlabel1.txt
+        ㄴlabel2.txt
+ ```
+ 
+ * 학습데이터 preprocessing
+```
+cd osnet_training
+sh preprocess.sh
+```
+* 본 코드는 [torchreid](https://github.com/KaiyangZhou/deep-person-reid) 기반으로 작성됨. 해당 가이드에 따라 필요 라이브러리 설치
+
+* OSNET 모델 학습
+```
+python scripts/main.py --config-file configs/im_osnet_x1_0_softmax_256x128_amsgrad_cosine.yaml -s customdata -t customdata --transforms random_flip random_erase --root reid-data
+```
+
+* OSNET 모델 결과
+```
+osnet_training/log/osnet_x1_0_customdata_softmax_cosinelr/model #해당 디렉토리에 학습결과 저장됨
+```
+
+ </details>
+ 
   
 
 ## Model Inference
@@ -313,8 +346,12 @@ runs/track/exp #해당 디렉토리에 inference 결과 저장됨
 </details>
 
 <details>
-<summary>객체 분류 모델(OSNet)</summary>
+<summary>객체 분류 모델(OSNet)</summary><br>
 
+* 자율차 분류를 포함한 inference 코드
 
-  
+```
+python track_cls.py --source sample.mp4 --yolo-weights weights/yolov5m.pt --appearance-descriptor-weights weights/osnet_x1_0_vehicle.pt --classes 2 5 7 --agnostic-nms --show-vid
+```
+
 </details>
