@@ -51,10 +51,10 @@
 * 좀더 detail한 모형 설명은 [논문](https://arxiv.org/abs/2202.13514) 참고
 <div align="center">
 <p>
-<img src="imgs/strongsort_metric.png" width="500"/> 
+<img src="imgs/strongsort_metric.PNG" width="500"/> 
 </p>
 <p>
-<img src="imgs/strongsort.png" width="500"/> 
+<img src="imgs/strongsort.PNG" width="500"/> 
 </p>
 </div>
 
@@ -95,7 +95,7 @@ docker pull ultralytics/yolov5
 ```
 <div align="center">
 <p>
-<img src="imgs/docker_pull.png" width="500"/> 
+<img src="imgs/docker_pull.PNG" width="500"/> 
 </p>
 
 </div>
@@ -109,7 +109,7 @@ docker run --gpus all -it --ipc=host --name=KETI_C3 -e DISPLAY=$DISPLAY --mount 
 ```
 <div align="center">
 <p>
-<img src="imgs/docker_container.png" width="500"/> 
+<img src="imgs/docker_container.PNG" width="500"/> 
 </p>
 
 </div>
@@ -130,7 +130,7 @@ Select "Dev Containers:Attach to Running Container..."
 
 <div align="center">
 <p>
-<img src="imgs/vs_connect.png" width="500"/> 
+<img src="imgs/vs_connect.PNG" width="500"/> 
 </p>
 
 </div>
@@ -202,7 +202,7 @@ python train.py  --batch 64 --data dataset.yaml --weights yolov5m.pt --device 0 
 ```
 <div align="center">
 <p>
-<img src="imgs/yolo_train2.png" width="500"/> 
+<img src="imgs/yolo_train2.PNG" width="500"/> 
 </p>
 
 </div>
@@ -216,7 +216,7 @@ yolov5/runs/train/exp #해당 디렉토리에 학습 결과 저장됨
 
 <div align="center">
 <p>
-<img src="imgs/yolo_train.png" width="500"/> 
+<img src="imgs/yolo_train.PNG" width="500"/> 
 </p>
 
 </div>
@@ -246,7 +246,7 @@ python detect.py --source data/*.jpg --weight  runs/train/exp/best.pt --batch-si
 ```
 <div align="center">
 <p>
-<img src="imgs/yolo_inf.png" width="500"/> 
+<img src="imgs/yolo_inf.PNG" width="500"/> 
 </p>
 
 </div>
@@ -274,7 +274,7 @@ python track_dev.py --save-vid  --source mp4/ch02_lane1_50km.mp4 --agnostic-nms 
 ```
 <div align="center">
 <p>
-<img src="imgs/track_inf2.png" width="500"/> 
+<img src="imgs/track_inf2.PNG" width="500"/> 
 </p>
 
 </div>
@@ -288,7 +288,7 @@ runs/track/exp #해당 디렉토리에 inference 결과 저장됨
 
 <div align="center">
 <p>
-<img src="imgs/track_inf.png" width="500"/> 
+<img src="imgs/track_inf.PNG" width="500"/> 
 </p>
 
 </div>
