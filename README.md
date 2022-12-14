@@ -192,9 +192,16 @@ yolov5/data/val
     ㄴlabels
         ㄴlabel1.txt
         ㄴlabel2.txt
-
 ```
+<div align="center">
+<p>
+<img src="imgs/yolo_dataset.PNG" width="500"/> 
+</p>
 
+</div>
+  
+  
+  
 * YOLOv5 모델 학습
 ```
 cd yolov5
@@ -258,7 +265,12 @@ python detect.py --source data/*.jpg --weight  runs/train/exp/best.pt --batch-si
 ```
 yolov5/runs/detect/exp #해당 디렉토리에 inference 결과 저장됨
 ```
+<div align="center">
+<p>
+<img src="imgs/yolo_result.PNG" width="500"/> 
+</p>
 
+</div>
 
   
 </details>
@@ -290,7 +302,11 @@ runs/track/exp #해당 디렉토리에 inference 결과 저장됨
 <p>
 <img src="imgs/track_inf.PNG" width="500"/> 
 </p>
-
+<p>
+<img src="imgs/tracking.PNG" width="500"/> 
+</p>
+ 
+  
 </div>
 
 
