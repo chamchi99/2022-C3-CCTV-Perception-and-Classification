@@ -1,4 +1,4 @@
-# KETI 차량인지 플랫폼 S/W 
+# 차량인지 플랫폼 S/W 
 
 
 
@@ -10,16 +10,18 @@
 </p>
 </div>
 
+# Acknowledgement
+* 본 S/W는 과학기술정보통신부 자율주행 기술개발 혁신사업 "차량 보안 위협 방지를 위한 공격대응 및 지능형 RSU 기술 개발" 과제의 지원으로 개발 되었습니다
 
-## Introduction
-* 과기부 예타 3세부 과제중 KETI에서 개발한 2차년도 차량인지 알고리즘 공개 S/W임
+## 개요
+* 자율주행협상을 위한 차량인지 알고리즘 공개 S/W임
 * 해당 repository는 차량 인지에 쓰이는 객체 검출 모델 ([YOLOv5](https://github.com/ultralytics/yolov5/tree/v7.0)), 객체 추적 모델 ([StrongSORT](https://arxiv.org/abs/2202.13514)), 자율차 분류 모델([OSNet](https://arxiv.org/abs/1905.00953)) 코드가 포함되어 있음
 * 해당 모델들은 1차년도에 가공한 실증구간 데이터로 학습되고 진행이 되었음 [데이터 링크](https://github.com/chamchi99/2021-C3-CCTV-DB-on-RSU)
 * 인지 알고리즘은 객체 검출 모델로 차량을 검출한후 검출한 모형으로 개별의 객체를 추적을함
 * 분류 알고리즘은 추적된 객체들을 자율차량인지 아닌지 분류함
 <div align="center">
 <p>
-<img src="imgs/flowchart2.png" width="800"/> 
+<img src="imgs/flowchart3.png" width="800"/> 
 </p>
 </div>
 
@@ -374,3 +376,8 @@ python track_cls.py --source sample.mp4 --yolo-weights weights/yolov5m.pt --appe
 
 
 </details>
+
+# Contact
+한국전자기술연구원 모빌리티 플랫폼연구센터
+* 윤상훈 (Sanghoon Yoon) / shyoon11@keti.re.kr
+* 장수현 (Soohyun Jang)  / shjang@keti.re.kr 
