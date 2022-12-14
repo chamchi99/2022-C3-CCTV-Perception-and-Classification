@@ -321,7 +321,7 @@ yolov5/runs/detect/exp #해당 디렉토리에 inference 결과 저장됨
 * 실증구간 학습데이터로 학습된 YOLOv5 weight 사용 함
 
 ```
-python track_dev.py --save-vid  --source mp4/ch02_lane1_50km.mp4 --agnostic-nms --yolo-weights yolov5/runs/train/exp/best.pt
+python track_only.py --save-vid  --source mp4/ch02_lane1_50km.mp4 --agnostic-nms --yolo-weights yolov5/runs/train/exp/best.pt
 ```
 <div align="center">
 <p>
