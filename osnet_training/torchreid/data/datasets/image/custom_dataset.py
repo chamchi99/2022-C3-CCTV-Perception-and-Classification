@@ -32,6 +32,7 @@ class CUSTOM_Dataset(ImageDataset):
         # - train, query and gallery share the same camid scope (e.g.
         #   camid=0 in train refers to the same camera as camid=0
         #   in query/gallery).
+        
         train_files = glob.glob(os.path.join(self.dataset_dir, 'train/*.jpg'))
         query_files = glob.glob(os.path.join(self.dataset_dir, 'query/*.jpg'))
         gallery_files = glob.glob(os.path.join(self.dataset_dir, 'gallery/*.jpg'))
