@@ -173,7 +173,7 @@ def run(
                 else:
                     txt_file_name = p.parent.name  # get folder name containing current img
                     save_path = str(save_dir / p.parent.name)  # im.jpg, vid.mp4, ...
-            curr_frames[i] = im0 # for camera compensation
+            curr_frames[i] = im0 # for camera motion compensation
 
             txt_path = str(save_dir / 'tracks' / txt_file_name)  # im.txt
             s += '%gx%g ' % im.shape[2:]  # print string
@@ -196,7 +196,7 @@ def run(
                 t4 = time_sync()
                 outputs[i] = tracker_list[i].update(det.cpu(), im0)
                 t5 = time_sync()
-                dt[3] += t5 - t4
+                dt[3] += t5 - t4 # for measuring the elapsed time of tracker
 
                 # draw boxes for visualization
                 if len(outputs[i]) > 0:
