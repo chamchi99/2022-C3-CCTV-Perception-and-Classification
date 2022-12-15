@@ -17,6 +17,7 @@ from PIL import Image
 
 
 class StrongSORT(object):
+    
     def __init__(self, 
                  model_weights,
                  device,
@@ -140,6 +141,7 @@ class StrongSORT(object):
 
 
 class StrongSORT_w_Matching(object):
+    
     def __init__(self,
                  model_weights,
                  device,
@@ -165,8 +167,6 @@ class StrongSORT_w_Matching(object):
         self.matching_thres = 0.28 # hard coding setting for zoom view CCTV
         query_feature = self.model(query_img).detach().cpu().numpy()
         self.query_feature = query_feature / np.linalg.norm(query_feature, axis=1, keepdims=True)
-
-
 
     def update(self, dets, ori_img):
 
