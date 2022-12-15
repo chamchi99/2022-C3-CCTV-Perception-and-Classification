@@ -13,7 +13,7 @@ with open('reid-data/cdataset/test_ids.txt', 'r') as f:
 
 train_idx_con = {}
 for i, train_id in enumerate(train_ids):
-    train_idx_con[train_id] = i
+    train_idx_con[train_id] = i # ID should start with zero (becaue of torchreid library setting)
 
 test_idx_con = {}
 for i, test_id in enumerate(test_ids):
