@@ -261,7 +261,7 @@ def run(
                     vid_writer[i] = cv2.VideoWriter(save_path, cv2.VideoWriter_fourcc(*'mp4v'), fps, (w, h))
                 vid_writer[i].write(im0)
 
-            prev_frames[i] = curr_frames[i]
+            prev_frames[i] = curr_frames[i] # for camera motion compensation
 
     # Print results
     t = tuple(x / seen * 1E3 for x in dt)  # speeds per image
