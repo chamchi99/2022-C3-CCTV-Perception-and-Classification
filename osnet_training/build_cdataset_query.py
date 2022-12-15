@@ -5,7 +5,6 @@ import random
 from sklearn.model_selection import train_test_split
 
 
-
 test_image_paths = glob.glob('reid-data/cdataset/test/*.jpg')
 image_per_id = dict()
 
