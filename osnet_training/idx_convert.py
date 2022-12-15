@@ -17,7 +17,7 @@ for i, train_id in enumerate(train_ids):
 
 test_idx_con = {}
 for i, test_id in enumerate(test_ids):
-    test_idx_con[test_id] = i
+    test_idx_con[test_id] = i # ID should start with zero (becaue of torchreid library setting)
 
 
 with open('reid-data/cdataset/train_idx_con.pickle', 'wb') as f:
