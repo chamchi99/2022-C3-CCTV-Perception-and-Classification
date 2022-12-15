@@ -23,7 +23,8 @@ for label_file in label_files:
             id_list.append(img_id)
 
 id_list = sorted(id_list)
-print(len(id_list))
+print('the number of id in total data set------------------------------------------:', print(len(id_list)))
+
 print(id_list)
 
 train_id, test_id = train_test_split(id_list, test_size=0.3, random_state=123) # test_size can be changed
