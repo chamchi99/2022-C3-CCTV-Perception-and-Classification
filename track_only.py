@@ -226,9 +226,11 @@ def run(
                             '''
                             label = f'{id}' # for simple visualization
                             
+                            '''
                             # id 88888 means AV car
                             if id == 88888:
-                                c = 50 
+                                c = 50
+                            '''
 
                             annotator.box_label(bboxes, label, color=colors(c, True))
                             if save_crop:
