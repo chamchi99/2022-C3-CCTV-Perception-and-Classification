@@ -147,7 +147,7 @@ def run(
         visualize = increment_path(save_dir / Path(path[0]).stem, mkdir=True) if visualize else False
         pred = model(im, augment=augment, visualize=visualize)
         t3 = time_sync()
-        dt[1] += t3 - t2
+        dt[1] += t3 - t2 # for measuring the elapsed time of detection model
 
         # Apply NMS
         pred = non_max_suppression(pred, conf_thres, iou_thres, classes, agnostic_nms, max_det=max_det)
