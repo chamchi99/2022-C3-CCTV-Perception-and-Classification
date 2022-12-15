@@ -30,7 +30,7 @@ train_id, test_id = train_test_split(id_list, test_size=0.3, random_state=123) #
 
 print('the number of id in train set------------------------------------------:', len(train_id))
 print(sorted(train_id))
-print('test------------------------------------------:', len(test_id))
+print('the number of id in test set------------------------------------------:', len(test_id))
 print(sorted(test_id))
 
 
