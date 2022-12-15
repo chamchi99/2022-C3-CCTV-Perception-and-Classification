@@ -4,7 +4,7 @@ from PIL import Image
 
 label_files = glob.glob('reid-data/cdataset/label/*.txt') # hard coded path
 
-os.makedirs('reid-data/cdataset/train')
+os.makedirs('reid-data/cdataset/train') # hard coded path
 os.makedirs('reid-data/cdataset/test')
 
 with open('reid-data/cdataset/train_ids.txt', 'r') as tr:
