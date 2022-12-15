@@ -116,14 +116,13 @@ def run(
     else:
         dataset = LoadImages(source, img_size=imgsz, stride=stride, auto=pt)
         nr_sources = 1
-        #dataset = LoadImages(['sample1.mp4', 'sample2.mp4'], img_size=imgsz, stride=stride, auto=pt)
-        #nr_sources = 2
+
     vid_path, vid_writer, txt_path = [None] * nr_sources, [None] * nr_sources, [None] * nr_sources
 
     # Create as many strong sort instances as there are video sources
     tracker_list = []
     for i in range(nr_sources):
-        tracker = create_tracker('strongsort_w_matching', appearance_descriptor_weights, device, half)
+        tracker = create_tracker('strongsort_w_matching', appearance_descriptor_weights, device, half) 
         tracker_list.append(tracker, )
         if hasattr(tracker_list[i], 'model'):
             if hasattr(tracker_list[i].model, 'warmup'):
