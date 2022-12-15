@@ -10,7 +10,8 @@ os.makedirs('reid-data/cdataset/test') # hard coded path
 # hard coded path
 with open('reid-data/cdataset/train_ids.txt', 'r') as tr:
     train_ids = tr.readline().split(',')[:-1]
-
+    
+# hard coded path
 with open('reid-data/cdataset/test_ids.txt', 'r') as te:
     test_ids = te.readline().split(',')[:-1]
 
