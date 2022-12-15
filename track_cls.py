@@ -132,7 +132,7 @@ def run(
     # Run tracking
     model.warmup(imgsz=(1 if pt else nr_sources, 3, *imgsz))  # warmup
     dt, seen = [0.0, 0.0, 0.0, 0.0], 0
-    curr_frames, prev_frames = [None] * nr_sources, [None] * nr_sources
+    curr_frames, prev_frames = [None] * nr_sources, [None] * nr_sources # for camera motion compensation
     for frame_idx, (path, im, im0s, vid_cap, s) in enumerate(dataset):
         t1 = time_sync()
         im = torch.from_numpy(im).to(device)
