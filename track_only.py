@@ -116,8 +116,7 @@ def run(
     else:
         dataset = LoadImages(source, img_size=imgsz, stride=stride, auto=pt)
         nr_sources = 1
-        #dataset = LoadImages(['sample1.mp4', 'sample2.mp4'], img_size=imgsz, stride=stride, auto=pt)
-        #nr_sources = 2
+
     vid_path, vid_writer, txt_path = [None] * nr_sources, [None] * nr_sources, [None] * nr_sources
 
     # Create as many strong sort instances as there are video sources
