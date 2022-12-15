@@ -87,7 +87,7 @@ class Track:
 
         self.kf = KalmanFilter()
         self.mean, self.covariance = self.kf.initiate(detection)
-        self.is_AV = False
+        self.is_AV = False # added code
 
     def to_tlwh(self):
         """Get current position in bounding box format `(top left x, top left y,
