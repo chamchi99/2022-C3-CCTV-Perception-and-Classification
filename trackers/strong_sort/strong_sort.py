@@ -33,7 +33,7 @@ class StrongSORT(object):
         self.model = ReIDDetectMultiBackend(weights=model_weights, device=device, fp16=fp16) # In our setting, OSNET is used
         self.max_dist = max_dist
         metric = NearestNeighborDistanceMetric(
-            "cosine", self.max_dist, nn_budget)
+            "cosine", self.max_dist, nn_budget) # cosine distance is used
         self.tracker = Tracker(
             metric, max_iou_distance=max_iou_distance, max_age=max_age, n_init=n_init)
 
