@@ -58,7 +58,7 @@ class StrongSORT(object):
         scores = np.array([d.confidence for d in detections])
 
         # update tracker
-        self.tracker.predict()
+        self.tracker.predict() # kf filter is used
         self.tracker.update(detections, clss, confs)
 
         # output bbox identities
