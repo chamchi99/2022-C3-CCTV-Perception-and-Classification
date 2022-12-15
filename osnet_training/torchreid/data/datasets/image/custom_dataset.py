@@ -12,7 +12,7 @@ from ..dataset import ImageDataset
 
 
 class CUSTOM_Dataset(ImageDataset):
-    dataset_dir = 'cdataset'
+    dataset_dir = 'cdataset' # hard coded path
 
     def __init__(self, root='', **kwargs):
         self.root = osp.abspath(osp.expanduser(root))
