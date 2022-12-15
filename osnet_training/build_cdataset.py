@@ -25,7 +25,7 @@ for label_file in label_files:
         s_label = label.split(', ')
         frame = s_label[0]
         img_id = s_label[1]
-        left, top, width, height = float(s_label[2]), float(s_label[3]), float(s_label[4]), float(s_label[5])
+        left, top, width, height = float(s_label[2]), float(s_label[3]), float(s_label[4]), float(s_label[5]) # pre-defined data format
 
         img_path = label_file[:-4].replace('label', 'image') + '_' + frame + '.jpg'
         img = Image.open(img_path)
