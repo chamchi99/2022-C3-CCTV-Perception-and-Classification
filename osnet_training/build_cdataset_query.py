@@ -23,7 +23,7 @@ for test_image_path in test_image_paths:
     image_per_id[img_id][camera].append(test_image_path)
 
 q = open('reid-data/cdataset/query.txt', 'w') # hard coded path
-g = open('reid-data/cdataset/gallery.txt', 'w')
+g = open('reid-data/cdataset/gallery.txt', 'w') # hard coded path
 
 
 test_id_list = list(image_per_id.keys())
