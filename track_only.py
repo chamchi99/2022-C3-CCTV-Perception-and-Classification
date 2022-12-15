@@ -225,7 +225,7 @@ def run(
                             label = None if hide_labels else (f'{id} {names[c]}' if hide_conf else \
                                 (f'{id} {conf:.2f}' if hide_class else f'{id} {names[c]} {conf:.2f}'))
                             '''
-                            label = f'{id}'
+                            label = f'{id}' # for simple visualization
                             
                             # id 88888 means AV car
                             if id == 88888:
