@@ -190,7 +190,7 @@ class StrongSORT_w_Matching(object):
         scores = np.array([d.confidence for d in detections])
 
         # update tracker
-        self.tracker.predict()
+        self.tracker.predict() # kf filter is used
         self.tracker.update(detections, clss, confs)
 
         # classify self-driving car
