@@ -242,7 +242,7 @@ class StrongSORT_w_Matching(object):
 
             track_id = track.track_id
             if track.is_AV:
-                track_id = 88888
+                track_id = 88888 
 
             class_id = track.class_id
             conf = track.conf
