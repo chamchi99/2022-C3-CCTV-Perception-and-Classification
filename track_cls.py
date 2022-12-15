@@ -77,7 +77,7 @@ def run(
         eval=False,  # run multi-gpu eval
 ):
     print('-----------------')
-    print(appearance_descriptor_weights)
+    print(appearance_descriptor_weights) # default is OSNET weights
     print('---------------')
 
     source = str(source)
