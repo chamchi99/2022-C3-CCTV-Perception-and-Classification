@@ -33,8 +33,8 @@ for label_file in label_files:
 
         crop_img = img.crop(box)
         if img_id in train_ids:
-            save_path = label_file[:-4].replace('label', 'train') + '_' + img_id + '_' + frame + '.jpg'
-
+            save_path = label_file[:-4].replace('label', 'train') + '_' + img_id + '_' + frame + '.jpg' # naming is used for dataloader
+         
         if img_id in test_ids:
             save_path = label_file[:-4].replace('label', 'test') + '_' + img_id + '_' + frame + '.jpg'
 
