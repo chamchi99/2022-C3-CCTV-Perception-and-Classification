@@ -219,15 +219,17 @@ def run(
 
                         if save_vid or save_crop or show_vid:  # Add bbox to image
                             # c = int(cls)  # integer class
-                            c = int(2)
+                            c = int(2) # for simple visualization
                             id = int(id)  # integer id
                             '''
                             label = None if hide_labels else (f'{id} {names[c]}' if hide_conf else \
                                 (f'{id} {conf:.2f}' if hide_class else f'{id} {names[c]} {conf:.2f}'))
                             '''
                             label = f'{id}'
+                            
+                            # id 88888 means AV car
                             if id == 88888:
-                                c = 50
+                                c = 50 
 
                             annotator.box_label(bboxes, label, color=colors(c, True))
                             if save_crop:
