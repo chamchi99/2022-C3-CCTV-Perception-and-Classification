@@ -26,7 +26,7 @@ def create_tracker(tracker_type, appearance_descriptor_weights, device, half):
         return strongsort
 
     elif tracker_type == 'strongsort_w_matching':
-        # initialize StrongSORT
+        # initialize StrongSORT with AV car classification
         cfg = get_config()
         cfg.merge_from_file('trackers/strong_sort/configs/strong_sort.yaml')
 
