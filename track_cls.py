@@ -196,7 +196,7 @@ def run(
                 t4 = time_sync()
                 outputs[i] = tracker_list[i].update(det.cpu(), im0)
                 t5 = time_sync()
-                dt[3] += t5 - t4
+                dt[3] += t5 - t4 # for measuring the elapsed time of tracker 
 
                 # draw boxes for visualization
                 if len(outputs[i]) > 0:
