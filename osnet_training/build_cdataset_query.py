@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 test_image_paths = glob.glob('reid-data/cdataset/test/*.jpg') # hard coded path
 image_per_id = dict()
 
-os.makedirs('reid-data/cdataset/gallery')
+os.makedirs('reid-data/cdataset/gallery') # hard coded path
 os.makedirs('reid-data/cdataset/query')
 
 for test_image_path in test_image_paths:
