@@ -153,7 +153,7 @@ class StrongSORT_w_Matching(object):
                  query_img_path=None
                  ):
 
-        self.model = ReIDDetectMultiBackend(weights=model_weights, device=device, fp16=fp16)
+        self.model = ReIDDetectMultiBackend(weights=model_weights, device=device, fp16=fp16) # In our setting, OSNET is used
         self.max_dist = max_dist
         metric = NearestNeighborDistanceMetric(
             "cosine", self.max_dist, nn_budget)
