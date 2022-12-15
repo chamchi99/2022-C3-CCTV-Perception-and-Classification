@@ -44,7 +44,8 @@ class CUSTOM_Dataset(ImageDataset):
         with open(os.path.join(self.dataset_dir, 'test_idx_con.pickle'), "rb") as file:
             test_idx_con = pickle.load(file)
 
-
+        # train_idx_con and text_idx_con make id start with zero
+        
         for train_file in train_files:
             file_name = os.path.basename(train_file).split('_')
             if file_name[1] == 'cctv02':
