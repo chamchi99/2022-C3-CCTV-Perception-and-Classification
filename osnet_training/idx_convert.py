@@ -1,5 +1,6 @@
 import pickle
 
+# hard coded path
 with open('reid-data/cdataset/train_ids.txt', 'r') as f:
     train_ids = f.readline().split(',')[:-1]
     train_ids = sorted(list(map(int, train_ids)))
