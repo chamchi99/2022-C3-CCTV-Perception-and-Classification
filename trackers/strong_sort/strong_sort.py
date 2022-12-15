@@ -207,6 +207,7 @@ class StrongSORT_w_Matching(object):
                 cen_y = (y1 + y2) / 2
                    
                 # this setting is for zoom view CCTV
+                # the section for classifying AV car is pre defined
                 if (500 < cen_y) and (cen_y < 750):
                     if (372 < cen_x) and (cen_x < 1688):
                         im = ori_img[y1:y2, x1:x2]
