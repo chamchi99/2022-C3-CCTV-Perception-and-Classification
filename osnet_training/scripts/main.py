@@ -162,7 +162,7 @@ def main():
     num_params, flops = compute_model_complexity(
         model, (1, 3, cfg.data.height, cfg.data.width)
     )
-    print('Model complexity: params={:,} flops={:,}'.format(num_params, flops))
+    print('Model complexity: params={:,} flops={:,}'.format(num_params, flops)) # Floating Point Operations
 
     if cfg.model.load_weights and check_isfile(cfg.model.load_weights):
         load_pretrained_weights(model, cfg.model.load_weights)
