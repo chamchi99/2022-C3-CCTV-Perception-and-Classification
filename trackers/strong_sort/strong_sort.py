@@ -205,7 +205,8 @@ class StrongSORT_w_Matching(object):
                 x1, y1, x2, y2 = self._tlwh_to_xyxy(box)
                 cen_x = (x1 + x2) / 2
                 cen_y = (y1 + y2) / 2
-
+                   
+                # this setting is for zoom view CCTV
                 if (500 < cen_y) and (cen_y < 750):
                     if (372 < cen_x) and (cen_x < 1688):
                         im = ori_img[y1:y2, x1:x2]
