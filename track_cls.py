@@ -150,7 +150,7 @@ def run(
         dt[1] += t3 - t2 # for measuring the elapsed time of detection model
 
         # Apply NMS
-        pred = non_max_suppression(pred, conf_thres, iou_thres, classes, agnostic_nms, max_det=max_det)
+        pred = non_max_suppression(pred, conf_thres, iou_thres, classes, agnostic_nms, max_det=max_det) # In our setting, agnostic_nms is True
         dt[2] += time_sync() - t3
         # Process detections
         for i, det in enumerate(pred):  # detections per image
