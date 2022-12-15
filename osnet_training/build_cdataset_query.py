@@ -9,7 +9,7 @@ test_image_paths = glob.glob('reid-data/cdataset/test/*.jpg') # hard coded path
 image_per_id = dict()
 
 os.makedirs('reid-data/cdataset/gallery') # hard coded path
-os.makedirs('reid-data/cdataset/query')
+os.makedirs('reid-data/cdataset/query') # hard coded path
 
 for test_image_path in test_image_paths:
     file_name = os.path.basename(test_image_path)
