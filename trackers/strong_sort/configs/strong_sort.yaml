@@ -8,4 +8,4 @@ STRONGSORT:
   # MAX_AGE: 60            # Maximum number of missed misses before a track is deleted
   N_INIT: 3              # Number of frames that a track remains in initialization phase
   NN_BUDGET: 100         # Maximum size of the appearance descriptors gallery
-  QUERY_PATH: query_image/av_query.jpg
+  QUERY_PATH: query_image/av_query.jpg # query image path for classifcation
