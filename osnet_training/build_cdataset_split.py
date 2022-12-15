@@ -3,12 +3,12 @@ import glob
 from PIL import Image
 from sklearn.model_selection import train_test_split
 
+
 label_files = glob.glob('reid-data/cdataset/label/*.txt')
 id_list = []
 
 for label_file in label_files:
-    #print(label_file)
-    #print(label_file[:-4])
+
     with open(label_file, 'r') as f:
         labels = f.readlines()
 
