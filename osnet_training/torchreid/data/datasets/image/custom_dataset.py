@@ -37,7 +37,8 @@ class CUSTOM_Dataset(ImageDataset):
         query_files = glob.glob(os.path.join(self.dataset_dir, 'query/*.jpg'))
         gallery_files = glob.glob(os.path.join(self.dataset_dir, 'gallery/*.jpg'))
         train, query, gallery = [], [], []
-
+        
+        # hard coded path
         with open(os.path.join(self.dataset_dir, 'train_idx_con.pickle'), "rb") as file:
             train_idx_con = pickle.load(file)
         
