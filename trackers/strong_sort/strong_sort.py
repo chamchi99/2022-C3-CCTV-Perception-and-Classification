@@ -203,6 +203,7 @@ class StrongSORT_w_Matching(object):
 
                 box = track.to_tlwh()
                 x1, y1, x2, y2 = self._tlwh_to_xyxy(box)
+                # calculate the centroid of detected box
                 cen_x = (x1 + x2) / 2
                 cen_y = (y1 + y2) / 2
                    
