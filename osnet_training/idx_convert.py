@@ -9,7 +9,7 @@ with open('reid-data/cdataset/test_ids.txt', 'r') as f:
     test_ids = sorted(list(map(int, test_ids)))
 
 
-print(test_ids)
+# print(test_ids)
 
 train_idx_con = {}
 for i, train_id in enumerate(train_ids):
