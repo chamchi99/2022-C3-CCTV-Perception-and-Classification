@@ -35,7 +35,7 @@ print('the number of id in test set------------------------------------------:',
 print('test set id list')
 print(sorted(test_id))
 
-
+# hard coded path
 with open('reid-data/cdataset/train_ids.txt', 'w') as f:
     for t_id in train_id:
         f.write(str(t_id)+',')
