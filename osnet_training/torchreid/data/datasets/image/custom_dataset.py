@@ -40,11 +40,10 @@ class CUSTOM_Dataset(ImageDataset):
 
         with open(os.path.join(self.dataset_dir, 'train_idx_con.pickle'), "rb") as file:
             train_idx_con = pickle.load(file)
-
+        
         with open(os.path.join(self.dataset_dir, 'test_idx_con.pickle'), "rb") as file:
             test_idx_con = pickle.load(file)
 
-        ## In out dataset, id starts at index 9. So we shoud minus 9
 
         for train_file in train_files:
             file_name = os.path.basename(train_file).split('_')
