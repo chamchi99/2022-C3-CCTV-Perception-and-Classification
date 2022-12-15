@@ -41,7 +41,8 @@ class CUSTOM_Dataset(ImageDataset):
         # hard coded path
         with open(os.path.join(self.dataset_dir, 'train_idx_con.pickle'), "rb") as file:
             train_idx_con = pickle.load(file)
-        
+            
+        # hard coded path
         with open(os.path.join(self.dataset_dir, 'test_idx_con.pickle'), "rb") as file:
             test_idx_con = pickle.load(file)
 
