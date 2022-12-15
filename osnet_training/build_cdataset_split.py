@@ -4,7 +4,7 @@ from PIL import Image
 from sklearn.model_selection import train_test_split
 
 
-label_files = glob.glob('reid-data/cdataset/label/*.txt')
+label_files = glob.glob('reid-data/cdataset/label/*.txt') # hard coded path
 id_list = []
 
 for label_file in label_files:
