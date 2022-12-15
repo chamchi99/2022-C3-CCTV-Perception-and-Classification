@@ -31,6 +31,7 @@ def create_tracker(tracker_type, appearance_descriptor_weights, device, half):
         cfg.merge_from_file('trackers/strong_sort/configs/strong_sort.yaml')
         
         # query_img_path is needed
+        # In our setting, AV car image is used as query image
         strongsort = StrongSORT_w_Matching(
             appearance_descriptor_weights,
             device,
