@@ -216,7 +216,7 @@ class StrongSORT_w_Matching(object):
             if img_crops:
                 features = self.model(img_crops).detach().cpu().numpy()
                 features = features / np.linalg.norm(features, axis=1, keepdims=True)
-                dist = 1. - np.dot(self.query_feature, features.T)
+                dist = 1. - np.dot(self.query_feature, features.T) # measuring distance between detected objects and query
 
                 for i in range(np.shape(dist)[1]):
                     if dist[0, i] < self.matching_thres:
