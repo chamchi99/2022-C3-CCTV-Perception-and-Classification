@@ -162,7 +162,7 @@ class StrongSORT_w_Matching(object):
 
         self.flag = False  # whether self-driving car is determined
         query_img = [np.asarray(Image.open(query_img_path))]
-        self.matching_thres = 0.28
+        self.matching_thres = 0.28 # hard coding setting for zoom view CCTV
         query_feature = self.model(query_img).detach().cpu().numpy()
         self.query_feature = query_feature / np.linalg.norm(query_feature, axis=1, keepdims=True)
 
