@@ -39,7 +39,8 @@ print(sorted(test_id))
 with open('reid-data/cdataset/train_ids.txt', 'w') as f:
     for t_id in train_id:
         f.write(str(t_id)+',')
-
+    
+# hard coded path
 with open('reid-data/cdataset/test_ids.txt', 'w') as f:
     for t_id in test_id:
         f.write(str(t_id)+',')
