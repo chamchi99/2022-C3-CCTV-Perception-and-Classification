@@ -14,6 +14,7 @@ with open('reid-data/cdataset/test_ids.txt', 'r') as te:
     test_ids = te.readline().split(',')[:-1]
 
 for label_file in label_files:
+    
     print(label_file[:-4])
     with open(label_file, 'r') as f:
         labels = f.readlines()
