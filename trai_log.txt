@@ -1,0 +1,633 @@
+ 896 x 896 
+ try to allocate additional workspace_size = 617.96 MB 
+ CUDA allocate done! 
+Loaded: 3.925102 seconds - performance bottleneck on CPU or Disk HDD/SSD
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.921557), count: 11, class_loss = 0.048912, iou_loss = 95.619179, total_loss = 95.668091 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.947638), count: 26, class_loss = 0.050846, iou_loss = 49.003555, total_loss = 49.054401 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.947779), count: 18, class_loss = 0.000388, iou_loss = 5.758008, total_loss = 5.758396 
+ total_bbox = 13457691, rewritten_bbox = 0.368473 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.908054), count: 22, class_loss = 0.041477, iou_loss = 173.126831, total_loss = 173.168304 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.942894), count: 36, class_loss = 0.042817, iou_loss = 87.942909, total_loss = 87.985725 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.940982), count: 24, class_loss = 0.000134, iou_loss = 8.658854, total_loss = 8.658989 
+ total_bbox = 13457773, rewritten_bbox = 0.368471 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.863640), count: 40, class_loss = 3.790046, iou_loss = 268.958893, total_loss = 272.748932 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.928620), count: 93, class_loss = 1.853401, iou_loss = 164.353516, total_loss = 166.206909 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.955335), count: 42, class_loss = 0.000047, iou_loss = 23.319319, total_loss = 23.319365 
+ total_bbox = 13457948, rewritten_bbox = 0.368466 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.869337), count: 19, class_loss = 1.497382, iou_loss = 145.462616, total_loss = 146.959991 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.931947), count: 124, class_loss = 0.813869, iou_loss = 202.432373, total_loss = 203.246246 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.900204), count: 61, class_loss = 1.305866, iou_loss = 30.190401, total_loss = 31.496267 
+ total_bbox = 13458152, rewritten_bbox = 0.368461 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.828598), count: 33, class_loss = 2.109037, iou_loss = 189.001984, total_loss = 191.111023 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.937852), count: 81, class_loss = 1.363902, iou_loss = 141.681442, total_loss = 143.045349 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.942290), count: 44, class_loss = 0.894160, iou_loss = 23.871798, total_loss = 24.765957 
+ total_bbox = 13458310, rewritten_bbox = 0.368456 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.878043), count: 26, class_loss = 0.887434, iou_loss = 174.436646, total_loss = 175.324081 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.932633), count: 100, class_loss = 2.487452, iou_loss = 167.286453, total_loss = 169.773911 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.920983), count: 59, class_loss = 2.386901, iou_loss = 23.176836, total_loss = 25.563736 
+ total_bbox = 13458495, rewritten_bbox = 0.368451 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.875803), count: 31, class_loss = 2.193146, iou_loss = 154.567322, total_loss = 156.760468 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.933066), count: 137, class_loss = 2.539868, iou_loss = 238.544281, total_loss = 241.084152 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.940551), count: 63, class_loss = 1.330061, iou_loss = 43.742275, total_loss = 45.072338 
+ total_bbox = 13458726, rewritten_bbox = 0.368445 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.781998), count: 22, class_loss = 2.132598, iou_loss = 118.861404, total_loss = 120.994003 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.936468), count: 98, class_loss = 1.503299, iou_loss = 186.906662, total_loss = 188.409958 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.937187), count: 42, class_loss = 0.388686, iou_loss = 21.497688, total_loss = 21.886374 
+ total_bbox = 13458888, rewritten_bbox = 0.368441 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.925497), count: 39, class_loss = 1.008981, iou_loss = 305.396667, total_loss = 306.405640 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.947856), count: 44, class_loss = 0.000663, iou_loss = 117.552437, total_loss = 117.553101 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.942005), count: 14, class_loss = 0.000849, iou_loss = 4.691436, total_loss = 4.692285 
+ total_bbox = 13458985, rewritten_bbox = 0.368438 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.915610), count: 21, class_loss = 0.319857, iou_loss = 122.552910, total_loss = 122.872765 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.950458), count: 65, class_loss = 0.055977, iou_loss = 158.603104, total_loss = 158.659088 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.963866), count: 21, class_loss = 0.000014, iou_loss = 12.839638, total_loss = 12.839652 
+ total_bbox = 13459092, rewritten_bbox = 0.368435 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.952931), count: 13, class_loss = 0.000279, iou_loss = 71.570702, total_loss = 71.570984 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.952582), count: 56, class_loss = 0.671010, iou_loss = 101.896378, total_loss = 102.567390 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.942366), count: 41, class_loss = 0.009107, iou_loss = 15.240698, total_loss = 15.249805 
+ total_bbox = 13459202, rewritten_bbox = 0.368432 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.928720), count: 19, class_loss = 0.090913, iou_loss = 140.472473, total_loss = 140.563385 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.954925), count: 62, class_loss = 0.001779, iou_loss = 143.432343, total_loss = 143.434128 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.963722), count: 37, class_loss = 0.000994, iou_loss = 13.106942, total_loss = 13.107936 
+ total_bbox = 13459320, rewritten_bbox = 0.368429 % 
+5991/6000: loss=0.9 hours left=0.1
+ 5991: 0.853841, 0.761771 avg loss, 0.000013 rate, 7.287572 seconds, 383424 images, 0.147879 hours left
+OpenCV exception: draw_train_loss() 
+Loaded: 0.000057 seconds
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.881276), count: 34, class_loss = 2.055390, iou_loss = 261.891632, total_loss = 263.947021 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.944773), count: 119, class_loss = 2.081140, iou_loss = 250.878281, total_loss = 252.959427 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.935837), count: 49, class_loss = 0.061396, iou_loss = 26.583467, total_loss = 26.644863 
+ total_bbox = 13460228, rewritten_bbox = 0.368411 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.917852), count: 24, class_loss = 0.738944, iou_loss = 139.168381, total_loss = 139.907318 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.954562), count: 129, class_loss = 0.011244, iou_loss = 220.122238, total_loss = 220.133484 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.950068), count: 61, class_loss = 0.027867, iou_loss = 38.355793, total_loss = 38.383659 
+ total_bbox = 13460441, rewritten_bbox = 0.368405 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.870407), count: 82, class_loss = 4.078475, iou_loss = 683.976807, total_loss = 688.055298 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.906252), count: 94, class_loss = 3.045177, iou_loss = 193.025879, total_loss = 196.071060 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.937324), count: 36, class_loss = 0.865964, iou_loss = 17.797462, total_loss = 18.663427 
+ total_bbox = 13460653, rewritten_bbox = 0.368400 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.905201), count: 13, class_loss = 0.039565, iou_loss = 87.273582, total_loss = 87.313148 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.911139), count: 52, class_loss = 0.002229, iou_loss = 91.720436, total_loss = 91.722664 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.915939), count: 24, class_loss = 0.226141, iou_loss = 9.629723, total_loss = 9.855864 
+ total_bbox = 13460742, rewritten_bbox = 0.368419 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.890633), count: 56, class_loss = 0.780602, iou_loss = 450.771851, total_loss = 451.552460 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.914924), count: 58, class_loss = 0.331466, iou_loss = 148.900528, total_loss = 149.231995 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.950865), count: 25, class_loss = 0.000112, iou_loss = 11.493610, total_loss = 11.493722 
+ total_bbox = 13460881, rewritten_bbox = 0.368423 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.880745), count: 39, class_loss = 1.299387, iou_loss = 301.493347, total_loss = 302.792725 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.930056), count: 107, class_loss = 0.528718, iou_loss = 184.605026, total_loss = 185.133743 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.940506), count: 53, class_loss = 0.179232, iou_loss = 29.008854, total_loss = 29.188086 
+ total_bbox = 13461080, rewritten_bbox = 0.368425 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.854442), count: 44, class_loss = 2.298358, iou_loss = 306.344055, total_loss = 308.642426 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.884735), count: 49, class_loss = 2.063656, iou_loss = 122.884331, total_loss = 124.947990 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.895376), count: 19, class_loss = 0.603726, iou_loss = 9.991676, total_loss = 10.595403 
+ total_bbox = 13461192, rewritten_bbox = 0.368422 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.908343), count: 10, class_loss = 0.259900, iou_loss = 69.428650, total_loss = 69.688553 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.927021), count: 74, class_loss = 0.811487, iou_loss = 128.624496, total_loss = 129.435989 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.900713), count: 32, class_loss = 0.258707, iou_loss = 18.300253, total_loss = 18.558960 
+ total_bbox = 13461308, rewritten_bbox = 0.368434 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.916757), count: 47, class_loss = 1.596852, iou_loss = 373.918915, total_loss = 375.515778 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.891246), count: 51, class_loss = 0.567036, iou_loss = 133.663086, total_loss = 134.230118 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.931694), count: 17, class_loss = 0.000018, iou_loss = 7.011099, total_loss = 7.011117 
+ total_bbox = 13461423, rewritten_bbox = 0.368445 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.918905), count: 11, class_loss = 0.031339, iou_loss = 84.275894, total_loss = 84.307236 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.949433), count: 46, class_loss = 0.001940, iou_loss = 78.258125, total_loss = 78.260063 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.948222), count: 34, class_loss = 0.001189, iou_loss = 13.181662, total_loss = 13.182851 
+ total_bbox = 13461514, rewritten_bbox = 0.368443 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.929515), count: 13, class_loss = 0.007761, iou_loss = 95.303879, total_loss = 95.311638 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.940222), count: 66, class_loss = 0.270804, iou_loss = 108.842354, total_loss = 109.113159 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.939937), count: 37, class_loss = 0.009054, iou_loss = 16.136436, total_loss = 16.145491 
+ total_bbox = 13461630, rewritten_bbox = 0.368440 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.849679), count: 50, class_loss = 0.733078, iou_loss = 389.767853, total_loss = 390.500946 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.931432), count: 39, class_loss = 0.312892, iou_loss = 112.424316, total_loss = 112.737206 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.931218), count: 18, class_loss = 0.000346, iou_loss = 10.259313, total_loss = 10.259659 
+ total_bbox = 13461737, rewritten_bbox = 0.368452 % 
+5992/6000: loss=0.7 hours left=0.1
+ 5992: 0.732111, 0.758805 avg loss, 0.000013 rate, 5.370088 seconds, 383488 images, 0.146681 hours left
+OpenCV exception: draw_train_loss() 
+Loaded: 0.000032 seconds
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.855960), count: 3, class_loss = 0.323248, iou_loss = 17.433910, total_loss = 17.757158 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.968079), count: 46, class_loss = 0.015233, iou_loss = 59.060944, total_loss = 59.076176 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.964348), count: 41, class_loss = 0.000104, iou_loss = 15.645658, total_loss = 15.645762 
+ total_bbox = 13462356, rewritten_bbox = 0.368442 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.952389), count: 8, class_loss = 0.000073, iou_loss = 64.897301, total_loss = 64.897377 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.954922), count: 21, class_loss = 0.210104, iou_loss = 38.033451, total_loss = 38.243553 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.935788), count: 25, class_loss = 1.278792, iou_loss = 11.292607, total_loss = 12.571399 
+ total_bbox = 13462410, rewritten_bbox = 0.368441 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.892654), count: 21, class_loss = 1.488604, iou_loss = 127.395767, total_loss = 128.884369 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.915091), count: 74, class_loss = 1.052707, iou_loss = 141.056839, total_loss = 142.109543 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.928453), count: 52, class_loss = 0.919948, iou_loss = 21.392426, total_loss = 22.312374 
+ total_bbox = 13462557, rewritten_bbox = 0.368437 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.871177), count: 14, class_loss = 0.675973, iou_loss = 96.848938, total_loss = 97.524910 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.931982), count: 67, class_loss = 0.280068, iou_loss = 104.184944, total_loss = 104.465012 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.937943), count: 48, class_loss = 0.038851, iou_loss = 23.077740, total_loss = 23.116590 
+ total_bbox = 13462686, rewritten_bbox = 0.368433 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.849773), count: 41, class_loss = 3.718741, iou_loss = 274.993317, total_loss = 278.712067 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.928823), count: 109, class_loss = 1.494560, iou_loss = 219.281616, total_loss = 220.776169 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.938212), count: 49, class_loss = 0.248550, iou_loss = 25.313864, total_loss = 25.562414 
+ total_bbox = 13462885, rewritten_bbox = 0.368428 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.897037), count: 41, class_loss = 1.291381, iou_loss = 345.389038, total_loss = 346.680420 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.943845), count: 41, class_loss = 0.619128, iou_loss = 105.236069, total_loss = 105.855194 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.920828), count: 20, class_loss = 0.840769, iou_loss = 12.228218, total_loss = 13.068987 
+ total_bbox = 13462987, rewritten_bbox = 0.368425 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.946158), count: 4, class_loss = 0.000104, iou_loss = 25.385948, total_loss = 25.386053 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.948015), count: 41, class_loss = 0.000195, iou_loss = 68.103363, total_loss = 68.103561 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.948736), count: 28, class_loss = 0.000392, iou_loss = 12.578464, total_loss = 12.578856 
+ total_bbox = 13463060, rewritten_bbox = 0.368423 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.933308), count: 4, class_loss = 0.001766, iou_loss = 24.191832, total_loss = 24.193598 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.960491), count: 54, class_loss = 0.003698, iou_loss = 82.861267, total_loss = 82.864967 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.958179), count: 34, class_loss = 0.000067, iou_loss = 15.695847, total_loss = 15.695913 
+ total_bbox = 13463152, rewritten_bbox = 0.368420 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.949333), count: 9, class_loss = 0.260060, iou_loss = 50.547417, total_loss = 50.807476 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.959268), count: 63, class_loss = 0.418323, iou_loss = 104.898003, total_loss = 105.316322 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.950307), count: 33, class_loss = 0.006090, iou_loss = 17.546450, total_loss = 17.552540 
+ total_bbox = 13463257, rewritten_bbox = 0.368418 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.931687), count: 25, class_loss = 0.362251, iou_loss = 215.573196, total_loss = 215.935455 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.949958), count: 47, class_loss = 0.187814, iou_loss = 87.851830, total_loss = 88.039642 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.960920), count: 17, class_loss = 0.011307, iou_loss = 8.005762, total_loss = 8.017069 
+ total_bbox = 13463346, rewritten_bbox = 0.368415 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.877469), count: 20, class_loss = 1.046588, iou_loss = 135.844727, total_loss = 136.891312 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.943308), count: 67, class_loss = 0.316879, iou_loss = 139.712906, total_loss = 140.029785 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.949684), count: 34, class_loss = 0.000755, iou_loss = 16.532063, total_loss = 16.532818 
+ total_bbox = 13463467, rewritten_bbox = 0.368412 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.866961), count: 56, class_loss = 3.708757, iou_loss = 437.252533, total_loss = 440.961304 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.915591), count: 86, class_loss = 4.146950, iou_loss = 161.376862, total_loss = 165.523804 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.937396), count: 44, class_loss = 0.353033, iou_loss = 22.278959, total_loss = 22.631992 
+ total_bbox = 13463653, rewritten_bbox = 0.368407 % 
+5993/6000: loss=0.7 hours left=0.1
+ 5993: 0.702453, 0.753170 avg loss, 0.000013 rate, 5.321165 seconds, 383552 images, 0.145333 hours left
+OpenCV exception: draw_train_loss() 
+Loaded: 0.000039 seconds
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.000000), count: 1, class_loss = 0.114875, iou_loss = 0.000000, total_loss = 0.114875 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.938667), count: 11, class_loss = 0.521460, iou_loss = 12.277224, total_loss = 12.798684 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.904368), count: 21, class_loss = 0.700595, iou_loss = 4.909486, total_loss = 5.610080 
+ total_bbox = 13464147, rewritten_bbox = 0.368393 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.941542), count: 21, class_loss = 0.574820, iou_loss = 153.072708, total_loss = 153.647522 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.960452), count: 56, class_loss = 0.001285, iou_loss = 99.943565, total_loss = 99.944847 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.960639), count: 28, class_loss = 0.000006, iou_loss = 11.732249, total_loss = 11.732255 
+ total_bbox = 13464249, rewritten_bbox = 0.368390 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.854033), count: 56, class_loss = 1.964847, iou_loss = 436.087860, total_loss = 438.052704 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.831443), count: 44, class_loss = 0.697474, iou_loss = 127.056770, total_loss = 127.754242 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.896706), count: 15, class_loss = 1.416697, iou_loss = 5.694299, total_loss = 7.110996 
+ total_bbox = 13464364, rewritten_bbox = 0.368410 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.895662), count: 42, class_loss = 1.463650, iou_loss = 272.059082, total_loss = 273.522736 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.943495), count: 107, class_loss = 1.432766, iou_loss = 223.273071, total_loss = 224.705841 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.935278), count: 44, class_loss = 1.279591, iou_loss = 25.404367, total_loss = 26.683958 
+ total_bbox = 13464557, rewritten_bbox = 0.368404 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.865923), count: 42, class_loss = 3.017550, iou_loss = 277.211578, total_loss = 280.229126 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.928354), count: 95, class_loss = 1.310285, iou_loss = 185.840057, total_loss = 187.150345 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.942453), count: 36, class_loss = 0.114633, iou_loss = 17.780970, total_loss = 17.895603 
+ total_bbox = 13464730, rewritten_bbox = 0.368407 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.871452), count: 26, class_loss = 1.638639, iou_loss = 252.580048, total_loss = 254.218689 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.941390), count: 74, class_loss = 0.117859, iou_loss = 103.357231, total_loss = 103.475090 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.927704), count: 55, class_loss = 0.064112, iou_loss = 25.791271, total_loss = 25.855383 
+ total_bbox = 13464885, rewritten_bbox = 0.368403 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.864343), count: 31, class_loss = 1.522691, iou_loss = 210.886642, total_loss = 212.409332 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.934448), count: 58, class_loss = 0.302249, iou_loss = 134.612381, total_loss = 134.914627 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.951334), count: 35, class_loss = 0.000077, iou_loss = 15.511481, total_loss = 15.511559 
+ total_bbox = 13465009, rewritten_bbox = 0.368399 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.901098), count: 24, class_loss = 0.402220, iou_loss = 202.093216, total_loss = 202.495438 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.952241), count: 87, class_loss = 0.060386, iou_loss = 168.628830, total_loss = 168.689209 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.947593), count: 42, class_loss = 0.000432, iou_loss = 21.812939, total_loss = 21.813372 
+ total_bbox = 13465162, rewritten_bbox = 0.368395 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.897661), count: 75, class_loss = 0.728675, iou_loss = 537.522339, total_loss = 538.251038 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.925525), count: 100, class_loss = 0.664345, iou_loss = 227.624710, total_loss = 228.289062 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.947262), count: 36, class_loss = 0.002967, iou_loss = 19.740017, total_loss = 19.742985 
+ total_bbox = 13465373, rewritten_bbox = 0.368412 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.940444), count: 22, class_loss = 0.021623, iou_loss = 160.444672, total_loss = 160.466293 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.948057), count: 112, class_loss = 0.723189, iou_loss = 197.489349, total_loss = 198.212540 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.937288), count: 60, class_loss = 0.795434, iou_loss = 36.057373, total_loss = 36.852806 
+ total_bbox = 13465567, rewritten_bbox = 0.368406 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.870628), count: 37, class_loss = 1.914679, iou_loss = 281.568939, total_loss = 283.483612 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.927621), count: 102, class_loss = 2.067638, iou_loss = 175.275040, total_loss = 177.342682 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.916373), count: 50, class_loss = 0.542695, iou_loss = 22.780479, total_loss = 23.323174 
+ total_bbox = 13465754, rewritten_bbox = 0.368401 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.901309), count: 27, class_loss = 1.212845, iou_loss = 207.549683, total_loss = 208.762527 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.951254), count: 80, class_loss = 1.529202, iou_loss = 147.890228, total_loss = 149.419434 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.951951), count: 46, class_loss = 0.339831, iou_loss = 22.580767, total_loss = 22.920599 
+ total_bbox = 13465907, rewritten_bbox = 0.368397 % 
+5994/6000: loss=1.0 hours left=0.1
+ 5994: 1.009606, 0.778814 avg loss, 0.000013 rate, 5.453082 seconds, 383616 images, 0.143983 hours left
+OpenCV exception: draw_train_loss() 
+Loaded: 0.000042 seconds
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.885046), count: 51, class_loss = 3.059079, iou_loss = 375.200409, total_loss = 378.259491 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.928799), count: 128, class_loss = 3.028908, iou_loss = 200.154694, total_loss = 203.183609 
+Can't open label file. (This can be normal only if you use MSCOCO): /usr/src/darknet/build/darknet/x64/obj/20220326_cctv01_016.txt 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.938549), count: 74, class_loss = 1.134936, iou_loss = 34.046280, total_loss = 35.181217 
+ total_bbox = 13466903, rewritten_bbox = 0.368399 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.883315), count: 47, class_loss = 2.262247, iou_loss = 328.306335, total_loss = 330.568573 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.928926), count: 100, class_loss = 1.028701, iou_loss = 194.333694, total_loss = 195.362396 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.908118), count: 44, class_loss = 0.625561, iou_loss = 25.549965, total_loss = 26.175526 
+ total_bbox = 13467094, rewritten_bbox = 0.368394 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.900428), count: 41, class_loss = 0.600273, iou_loss = 304.272400, total_loss = 304.872681 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.929208), count: 101, class_loss = 0.286248, iou_loss = 207.442017, total_loss = 207.728271 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.949386), count: 38, class_loss = 0.017007, iou_loss = 22.035852, total_loss = 22.052860 
+ total_bbox = 13467274, rewritten_bbox = 0.368389 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.911733), count: 34, class_loss = 0.505057, iou_loss = 302.742249, total_loss = 303.247314 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.959018), count: 48, class_loss = 0.242946, iou_loss = 85.665199, total_loss = 85.908142 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.945802), count: 26, class_loss = 0.308292, iou_loss = 15.183293, total_loss = 15.491585 
+ total_bbox = 13467382, rewritten_bbox = 0.368386 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.928450), count: 49, class_loss = 0.181422, iou_loss = 357.088043, total_loss = 357.269470 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.940862), count: 79, class_loss = 0.012552, iou_loss = 185.209900, total_loss = 185.222458 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.953642), count: 26, class_loss = 0.019615, iou_loss = 13.900886, total_loss = 13.920500 
+ total_bbox = 13467536, rewritten_bbox = 0.368390 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.943406), count: 21, class_loss = 0.136076, iou_loss = 152.156281, total_loss = 152.292358 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.961863), count: 63, class_loss = 0.000069, iou_loss = 135.846130, total_loss = 135.846207 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.959879), count: 31, class_loss = 0.000012, iou_loss = 16.901039, total_loss = 16.901051 
+ total_bbox = 13467651, rewritten_bbox = 0.368386 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.929863), count: 29, class_loss = 0.006207, iou_loss = 274.800323, total_loss = 274.806519 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.928618), count: 29, class_loss = 0.019344, iou_loss = 73.446312, total_loss = 73.465652 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.950382), count: 19, class_loss = 0.006439, iou_loss = 7.889435, total_loss = 7.895875 
+ total_bbox = 13467728, rewritten_bbox = 0.368384 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.875407), count: 20, class_loss = 0.791941, iou_loss = 169.857986, total_loss = 170.649933 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.941637), count: 40, class_loss = 0.221609, iou_loss = 63.514835, total_loss = 63.736446 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.946604), count: 26, class_loss = 0.000232, iou_loss = 10.590267, total_loss = 10.590500 
+ total_bbox = 13467814, rewritten_bbox = 0.368382 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.734165), count: 12, class_loss = 1.083902, iou_loss = 63.532646, total_loss = 64.616547 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.893439), count: 64, class_loss = 1.953590, iou_loss = 77.007858, total_loss = 78.961449 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.913224), count: 40, class_loss = 0.820537, iou_loss = 15.894944, total_loss = 16.715481 
+ total_bbox = 13467930, rewritten_bbox = 0.368379 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.905058), count: 57, class_loss = 1.176257, iou_loss = 421.042236, total_loss = 422.218506 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.931951), count: 75, class_loss = 0.938093, iou_loss = 223.264252, total_loss = 224.202347 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.908413), count: 21, class_loss = 0.447640, iou_loss = 16.134916, total_loss = 16.582556 
+ total_bbox = 13468083, rewritten_bbox = 0.368375 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.899879), count: 98, class_loss = 2.145642, iou_loss = 752.923706, total_loss = 755.069336 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.920597), count: 129, class_loss = 0.907194, iou_loss = 290.126953, total_loss = 291.034149 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.946527), count: 51, class_loss = 0.186499, iou_loss = 25.290798, total_loss = 25.477297 
+ total_bbox = 13468361, rewritten_bbox = 0.368397 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.920110), count: 2, class_loss = 0.001317, iou_loss = 6.859253, total_loss = 6.860569 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.939793), count: 60, class_loss = 0.934534, iou_loss = 96.193062, total_loss = 97.127594 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.931790), count: 38, class_loss = 0.502577, iou_loss = 20.296993, total_loss = 20.799570 
+ total_bbox = 13468461, rewritten_bbox = 0.368394 % 
+5995/6000: loss=0.6 hours left=0.1
+ 5995: 0.604499, 0.761382 avg loss, 0.000013 rate, 6.149146 seconds, 383680 images, 0.142634 hours left
+OpenCV exception: draw_train_loss() 
+Loaded: 0.000080 seconds
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.916292), count: 21, class_loss = 0.127451, iou_loss = 133.156525, total_loss = 133.283981 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.944717), count: 98, class_loss = 0.004731, iou_loss = 174.432709, total_loss = 174.437439 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.947753), count: 44, class_loss = 0.001204, iou_loss = 25.469971, total_loss = 25.471174 
+ total_bbox = 13468890, rewritten_bbox = 0.368382 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.945893), count: 29, class_loss = 1.013887, iou_loss = 212.297256, total_loss = 213.311142 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.960098), count: 69, class_loss = 1.349651, iou_loss = 141.734955, total_loss = 143.084610 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.960460), count: 24, class_loss = 0.059021, iou_loss = 12.139577, total_loss = 12.198598 
+ total_bbox = 13469012, rewritten_bbox = 0.368379 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.926703), count: 9, class_loss = 0.579658, iou_loss = 53.214508, total_loss = 53.794167 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.923946), count: 40, class_loss = 2.550917, iou_loss = 71.107941, total_loss = 73.658859 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.926727), count: 32, class_loss = 0.678542, iou_loss = 11.832278, total_loss = 12.510820 
+ total_bbox = 13469093, rewritten_bbox = 0.368377 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.898823), count: 53, class_loss = 5.266690, iou_loss = 375.214386, total_loss = 380.481079 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.929614), count: 76, class_loss = 3.096887, iou_loss = 172.868530, total_loss = 175.965424 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.932816), count: 27, class_loss = 0.420760, iou_loss = 14.617321, total_loss = 15.038080 
+ total_bbox = 13469249, rewritten_bbox = 0.368372 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.903196), count: 62, class_loss = 1.520529, iou_loss = 491.473206, total_loss = 492.993744 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.926334), count: 81, class_loss = 1.008240, iou_loss = 186.583878, total_loss = 187.592117 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.936232), count: 40, class_loss = 0.580780, iou_loss = 22.256355, total_loss = 22.837135 
+ total_bbox = 13469432, rewritten_bbox = 0.368375 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.882388), count: 36, class_loss = 1.617653, iou_loss = 258.360077, total_loss = 259.977722 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.942818), count: 92, class_loss = 2.272089, iou_loss = 148.972488, total_loss = 151.244583 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.930784), count: 44, class_loss = 0.874034, iou_loss = 23.120136, total_loss = 23.994171 
+ total_bbox = 13469604, rewritten_bbox = 0.368370 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.862672), count: 48, class_loss = 2.128506, iou_loss = 318.303802, total_loss = 320.432312 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.925372), count: 143, class_loss = 2.605030, iou_loss = 273.175629, total_loss = 275.780670 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.915015), count: 56, class_loss = 0.464001, iou_loss = 27.383085, total_loss = 27.847086 
+ total_bbox = 13469851, rewritten_bbox = 0.368371 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.832870), count: 41, class_loss = 2.421220, iou_loss = 295.173248, total_loss = 297.594482 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.936102), count: 119, class_loss = 0.398000, iou_loss = 189.144333, total_loss = 189.542328 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.936727), count: 67, class_loss = 0.058121, iou_loss = 30.548534, total_loss = 30.606655 
+ total_bbox = 13470078, rewritten_bbox = 0.368365 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.946347), count: 18, class_loss = 0.001412, iou_loss = 102.174858, total_loss = 102.176270 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.953764), count: 64, class_loss = 0.260411, iou_loss = 117.062279, total_loss = 117.322693 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.940549), count: 31, class_loss = 0.014333, iou_loss = 18.122906, total_loss = 18.137239 
+ total_bbox = 13470191, rewritten_bbox = 0.368362 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.908510), count: 34, class_loss = 0.075285, iou_loss = 284.598541, total_loss = 284.673828 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.913920), count: 35, class_loss = 0.184261, iou_loss = 78.251572, total_loss = 78.435829 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.957994), count: 22, class_loss = 0.000013, iou_loss = 6.868417, total_loss = 6.868430 
+ total_bbox = 13470282, rewritten_bbox = 0.368366 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.936037), count: 9, class_loss = 0.022970, iou_loss = 51.078445, total_loss = 51.101414 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.952684), count: 37, class_loss = 0.005214, iou_loss = 73.606850, total_loss = 73.612061 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.943956), count: 19, class_loss = 0.000198, iou_loss = 10.137260, total_loss = 10.137458 
+ total_bbox = 13470347, rewritten_bbox = 0.368365 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.905472), count: 54, class_loss = 1.195063, iou_loss = 369.207001, total_loss = 370.402069 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.939321), count: 105, class_loss = 0.522720, iou_loss = 231.793045, total_loss = 232.315765 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.924659), count: 48, class_loss = 0.052324, iou_loss = 17.758686, total_loss = 17.811010 
+ total_bbox = 13470554, rewritten_bbox = 0.368366 % 
+5996/6000: loss=1.1 hours left=0.1
+ 5996: 1.051700, 0.790414 avg loss, 0.000013 rate, 7.791827 seconds, 383744 images, 0.141293 hours left
+OpenCV exception: draw_train_loss() 
+Loaded: 0.000154 seconds
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.889705), count: 23, class_loss = 0.485171, iou_loss = 179.746902, total_loss = 180.232071 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.923003), count: 83, class_loss = 1.463468, iou_loss = 121.926628, total_loss = 123.390099 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.934228), count: 48, class_loss = 0.934352, iou_loss = 23.708967, total_loss = 24.643320 
+ total_bbox = 13471413, rewritten_bbox = 0.368380 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.899233), count: 28, class_loss = 1.183827, iou_loss = 202.564133, total_loss = 203.747955 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.943960), count: 87, class_loss = 0.344850, iou_loss = 181.718109, total_loss = 182.062958 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.926129), count: 45, class_loss = 0.457853, iou_loss = 20.012663, total_loss = 20.470516 
+ total_bbox = 13471573, rewritten_bbox = 0.368376 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.878166), count: 32, class_loss = 1.584543, iou_loss = 235.939713, total_loss = 237.524261 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.935734), count: 82, class_loss = 1.905920, iou_loss = 160.531784, total_loss = 162.437698 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.910493), count: 44, class_loss = 0.232434, iou_loss = 18.106314, total_loss = 18.338747 
+ total_bbox = 13471731, rewritten_bbox = 0.368386 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.936799), count: 18, class_loss = 0.187418, iou_loss = 122.420113, total_loss = 122.607529 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.943415), count: 37, class_loss = 0.000435, iou_loss = 86.002823, total_loss = 86.003258 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.956370), count: 11, class_loss = 0.003003, iou_loss = 9.471184, total_loss = 9.474186 
+ total_bbox = 13471797, rewritten_bbox = 0.368384 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.940033), count: 6, class_loss = 0.000130, iou_loss = 45.038349, total_loss = 45.038479 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.960891), count: 43, class_loss = 0.000037, iou_loss = 55.425632, total_loss = 55.425671 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.963071), count: 24, class_loss = 0.000015, iou_loss = 13.314394, total_loss = 13.314409 
+ total_bbox = 13471870, rewritten_bbox = 0.368382 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.950613), count: 5, class_loss = 0.128054, iou_loss = 24.283632, total_loss = 24.411686 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.962935), count: 48, class_loss = 0.001711, iou_loss = 79.603928, total_loss = 79.605637 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.957592), count: 32, class_loss = 0.000190, iou_loss = 12.143150, total_loss = 12.143340 
+ total_bbox = 13471955, rewritten_bbox = 0.368380 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.908730), count: 7, class_loss = 0.004323, iou_loss = 41.596828, total_loss = 41.601151 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.933753), count: 37, class_loss = 0.057814, iou_loss = 69.523941, total_loss = 69.581757 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.931488), count: 29, class_loss = 0.114020, iou_loss = 11.643448, total_loss = 11.757468 
+ total_bbox = 13472028, rewritten_bbox = 0.368378 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.911756), count: 17, class_loss = 0.240913, iou_loss = 102.987686, total_loss = 103.228600 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.951916), count: 62, class_loss = 0.494426, iou_loss = 120.069237, total_loss = 120.563660 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.948801), count: 39, class_loss = 0.000384, iou_loss = 17.075848, total_loss = 17.076233 
+ total_bbox = 13472146, rewritten_bbox = 0.368375 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.878062), count: 44, class_loss = 2.248960, iou_loss = 290.546173, total_loss = 292.795135 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.933987), count: 89, class_loss = 1.430444, iou_loss = 162.142471, total_loss = 163.572922 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.918482), count: 46, class_loss = 0.533836, iou_loss = 20.945196, total_loss = 21.479033 
+ total_bbox = 13472325, rewritten_bbox = 0.368370 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.904522), count: 51, class_loss = 1.475784, iou_loss = 326.499603, total_loss = 327.975372 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.916919), count: 110, class_loss = 4.903575, iou_loss = 235.145782, total_loss = 240.049362 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.913476), count: 42, class_loss = 1.596229, iou_loss = 19.711977, total_loss = 21.308207 
+ total_bbox = 13472528, rewritten_bbox = 0.368364 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.893707), count: 47, class_loss = 0.509833, iou_loss = 351.214111, total_loss = 351.723938 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.939598), count: 132, class_loss = 0.719513, iou_loss = 251.277435, total_loss = 251.996948 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.942007), count: 59, class_loss = 0.040285, iou_loss = 35.667904, total_loss = 35.708187 
+ total_bbox = 13472766, rewritten_bbox = 0.368358 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.908103), count: 27, class_loss = 0.569753, iou_loss = 195.108078, total_loss = 195.677826 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.935541), count: 54, class_loss = 1.162517, iou_loss = 116.718277, total_loss = 117.880791 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.924669), count: 28, class_loss = 0.354359, iou_loss = 13.375778, total_loss = 13.730138 
+ total_bbox = 13472875, rewritten_bbox = 0.368355 % 
+5997/6000: loss=0.8 hours left=0.1
+ 5997: 0.756845, 0.787057 avg loss, 0.000013 rate, 8.038985 seconds, 383808 images, 0.139967 hours left
+OpenCV exception: draw_train_loss() 
+Loaded: 0.000143 seconds
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.939284), count: 17, class_loss = 0.010901, iou_loss = 129.399155, total_loss = 129.410049 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.949428), count: 56, class_loss = 0.189213, iou_loss = 90.441490, total_loss = 90.630699 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.939814), count: 38, class_loss = 0.389042, iou_loss = 16.988455, total_loss = 17.377497 
+ total_bbox = 13473709, rewritten_bbox = 0.368332 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.936846), count: 16, class_loss = 0.000281, iou_loss = 93.796181, total_loss = 93.796463 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.964204), count: 86, class_loss = 0.342267, iou_loss = 137.367462, total_loss = 137.709732 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.954886), count: 37, class_loss = 0.018298, iou_loss = 17.963301, total_loss = 17.981598 
+ total_bbox = 13473848, rewritten_bbox = 0.368328 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.892853), count: 58, class_loss = 0.849569, iou_loss = 487.937866, total_loss = 488.787445 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.938048), count: 86, class_loss = 1.817360, iou_loss = 178.399368, total_loss = 180.216721 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.938716), count: 31, class_loss = 0.465817, iou_loss = 17.053625, total_loss = 17.519442 
+ total_bbox = 13474023, rewritten_bbox = 0.368324 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.895768), count: 57, class_loss = 2.707519, iou_loss = 312.539398, total_loss = 315.246918 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.940098), count: 159, class_loss = 0.795049, iou_loss = 322.664520, total_loss = 323.459564 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.929635), count: 52, class_loss = 0.004961, iou_loss = 30.309784, total_loss = 30.314745 
+ total_bbox = 13474290, rewritten_bbox = 0.368324 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.899864), count: 48, class_loss = 1.185606, iou_loss = 367.045197, total_loss = 368.230804 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.933812), count: 54, class_loss = 0.052463, iou_loss = 124.628059, total_loss = 124.680519 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.938905), count: 27, class_loss = 0.007325, iou_loss = 8.897335, total_loss = 8.904660 
+ total_bbox = 13474419, rewritten_bbox = 0.368320 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.894765), count: 47, class_loss = 2.299306, iou_loss = 311.270111, total_loss = 313.569427 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.942846), count: 108, class_loss = 1.236737, iou_loss = 217.856430, total_loss = 219.093170 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.956663), count: 50, class_loss = 0.050502, iou_loss = 23.563499, total_loss = 23.614002 
+ total_bbox = 13474624, rewritten_bbox = 0.368315 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.843766), count: 15, class_loss = 0.560995, iou_loss = 102.117142, total_loss = 102.678139 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.940365), count: 84, class_loss = 0.860647, iou_loss = 147.133148, total_loss = 147.993790 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.917937), count: 50, class_loss = 0.652583, iou_loss = 21.725052, total_loss = 22.377636 
+ total_bbox = 13474773, rewritten_bbox = 0.368318 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.871424), count: 35, class_loss = 1.106598, iou_loss = 238.561737, total_loss = 239.668335 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.943420), count: 125, class_loss = 1.308645, iou_loss = 210.085205, total_loss = 211.393845 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.939463), count: 72, class_loss = 0.048198, iou_loss = 34.306564, total_loss = 34.354763 
+ total_bbox = 13475003, rewritten_bbox = 0.368312 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.899710), count: 32, class_loss = 1.917373, iou_loss = 192.300400, total_loss = 194.217773 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.926966), count: 88, class_loss = 1.349527, iou_loss = 170.078918, total_loss = 171.428452 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.924392), count: 31, class_loss = 0.382913, iou_loss = 22.071907, total_loss = 22.454821 
+ total_bbox = 13475154, rewritten_bbox = 0.368307 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.860580), count: 63, class_loss = 2.433393, iou_loss = 492.249878, total_loss = 494.683258 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.930909), count: 121, class_loss = 1.887569, iou_loss = 230.547455, total_loss = 232.435028 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.936886), count: 58, class_loss = 0.013399, iou_loss = 34.798641, total_loss = 34.812042 
+ total_bbox = 13475396, rewritten_bbox = 0.368301 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.906109), count: 48, class_loss = 2.548429, iou_loss = 363.460754, total_loss = 366.009186 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.926366), count: 83, class_loss = 0.974089, iou_loss = 188.423340, total_loss = 189.397430 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.928937), count: 43, class_loss = 0.237007, iou_loss = 19.513296, total_loss = 19.750303 
+ total_bbox = 13475570, rewritten_bbox = 0.368296 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.877681), count: 19, class_loss = 1.622663, iou_loss = 97.461151, total_loss = 99.083817 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.924365), count: 86, class_loss = 4.944169, iou_loss = 145.373138, total_loss = 150.317307 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.897393), count: 59, class_loss = 2.556928, iou_loss = 25.697899, total_loss = 28.254827 
+ total_bbox = 13475734, rewritten_bbox = 0.368299 % 
+5998/6000: loss=1.2 hours left=0.1
+ 5998: 1.238831, 0.832234 avg loss, 0.000013 rate, 7.284621 seconds, 383872 images, 0.138634 hours left
+OpenCV exception: draw_train_loss() 
+Loaded: 0.000032 seconds
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.930645), count: 23, class_loss = 0.008213, iou_loss = 209.433533, total_loss = 209.441742 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.946114), count: 26, class_loss = 0.000767, iou_loss = 51.951077, total_loss = 51.951843 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.954968), count: 11, class_loss = 0.000004, iou_loss = 5.060582, total_loss = 5.060586 
+ total_bbox = 13476443, rewritten_bbox = 0.368287 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.953345), count: 8, class_loss = 0.002990, iou_loss = 55.778637, total_loss = 55.781628 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.967935), count: 59, class_loss = 0.000279, iou_loss = 104.765732, total_loss = 104.766014 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.958660), count: 32, class_loss = 0.001485, iou_loss = 17.953806, total_loss = 17.955292 
+ total_bbox = 13476542, rewritten_bbox = 0.368284 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.913662), count: 20, class_loss = 0.046835, iou_loss = 152.487381, total_loss = 152.534210 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.965742), count: 47, class_loss = 0.412644, iou_loss = 108.054199, total_loss = 108.466843 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.965151), count: 23, class_loss = 0.000072, iou_loss = 11.545840, total_loss = 11.545912 
+ total_bbox = 13476632, rewritten_bbox = 0.368282 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.876760), count: 9, class_loss = 0.040285, iou_loss = 63.913799, total_loss = 63.954086 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.956423), count: 38, class_loss = 0.012680, iou_loss = 72.554230, total_loss = 72.566910 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.953648), count: 26, class_loss = 0.004181, iou_loss = 11.560728, total_loss = 11.564909 
+ total_bbox = 13476705, rewritten_bbox = 0.368280 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.927789), count: 11, class_loss = 0.010351, iou_loss = 75.810196, total_loss = 75.820549 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.929730), count: 27, class_loss = 0.018388, iou_loss = 69.388481, total_loss = 69.406868 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.924018), count: 10, class_loss = 0.000007, iou_loss = 6.511682, total_loss = 6.511689 
+ total_bbox = 13476753, rewritten_bbox = 0.368279 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.901399), count: 10, class_loss = 0.109986, iou_loss = 58.910385, total_loss = 59.020370 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.959655), count: 53, class_loss = 0.000221, iou_loss = 95.877251, total_loss = 95.877472 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.958293), count: 31, class_loss = 0.000028, iou_loss = 16.353706, total_loss = 16.353733 
+ total_bbox = 13476847, rewritten_bbox = 0.368276 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.977888), count: 6, class_loss = 0.000016, iou_loss = 31.387173, total_loss = 31.387188 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.963299), count: 69, class_loss = 0.000128, iou_loss = 107.819244, total_loss = 107.819374 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.965006), count: 48, class_loss = 0.002146, iou_loss = 20.440269, total_loss = 20.442415 
+ total_bbox = 13476970, rewritten_bbox = 0.368273 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.883352), count: 27, class_loss = 0.858416, iou_loss = 175.017807, total_loss = 175.876221 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.942514), count: 75, class_loss = 0.317905, iou_loss = 129.068314, total_loss = 129.386215 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.949431), count: 35, class_loss = 0.000015, iou_loss = 17.608242, total_loss = 17.608257 
+ total_bbox = 13477107, rewritten_bbox = 0.368269 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.878889), count: 19, class_loss = 0.134994, iou_loss = 115.334496, total_loss = 115.469490 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.954509), count: 82, class_loss = 0.000122, iou_loss = 159.787857, total_loss = 159.787979 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.954119), count: 37, class_loss = 0.000138, iou_loss = 23.065456, total_loss = 23.065594 
+ total_bbox = 13477245, rewritten_bbox = 0.368265 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.943279), count: 8, class_loss = 0.222573, iou_loss = 33.245983, total_loss = 33.468555 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.951108), count: 109, class_loss = 0.002594, iou_loss = 157.718842, total_loss = 157.721436 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.943420), count: 66, class_loss = 0.008225, iou_loss = 34.280682, total_loss = 34.288906 
+ total_bbox = 13477428, rewritten_bbox = 0.368260 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.909861), count: 29, class_loss = 1.594444, iou_loss = 214.954926, total_loss = 216.549362 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.943614), count: 98, class_loss = 1.262181, iou_loss = 181.252441, total_loss = 182.514618 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.924150), count: 37, class_loss = 0.140508, iou_loss = 19.467085, total_loss = 19.607594 
+ total_bbox = 13477592, rewritten_bbox = 0.368256 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.899395), count: 15, class_loss = 0.298001, iou_loss = 72.426956, total_loss = 72.724960 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.949815), count: 105, class_loss = 1.007497, iou_loss = 195.658585, total_loss = 196.666077 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.935182), count: 58, class_loss = 0.604874, iou_loss = 29.655916, total_loss = 30.260790 
+ total_bbox = 13477770, rewritten_bbox = 0.368251 % 
+5999/6000: loss=0.5 hours left=0.1
+ 5999: 0.477550, 0.796766 avg loss, 0.000013 rate, 5.309441 seconds, 383936 images, 0.137288 hours left
+OpenCV exception: draw_train_loss() 
+Loaded: 0.000043 seconds
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.918889), count: 59, class_loss = 0.486688, iou_loss = 482.457123, total_loss = 482.943817 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.943762), count: 89, class_loss = 0.438159, iou_loss = 222.917740, total_loss = 223.355896 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.932497), count: 28, class_loss = 0.072680, iou_loss = 17.843283, total_loss = 17.915962 
+ total_bbox = 13478670, rewritten_bbox = 0.368241 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.917938), count: 45, class_loss = 0.090182, iou_loss = 336.777039, total_loss = 336.867218 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.927613), count: 49, class_loss = 0.016464, iou_loss = 99.964882, total_loss = 99.981346 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.960098), count: 23, class_loss = 0.000334, iou_loss = 9.128975, total_loss = 9.129309 
+ total_bbox = 13478787, rewritten_bbox = 0.368245 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.902120), count: 37, class_loss = 1.749712, iou_loss = 303.290619, total_loss = 305.040344 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.929212), count: 39, class_loss = 0.031931, iou_loss = 77.022545, total_loss = 77.054474 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.960777), count: 16, class_loss = 0.000185, iou_loss = 8.566997, total_loss = 8.567182 
+ total_bbox = 13478879, rewritten_bbox = 0.368258 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.894620), count: 57, class_loss = 0.711534, iou_loss = 367.313141, total_loss = 368.024689 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.943155), count: 157, class_loss = 1.667685, iou_loss = 290.331116, total_loss = 291.998810 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.923774), count: 68, class_loss = 0.793247, iou_loss = 33.803368, total_loss = 34.596615 
+ total_bbox = 13479161, rewritten_bbox = 0.368250 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.918684), count: 33, class_loss = 0.572239, iou_loss = 244.421234, total_loss = 244.993469 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.948366), count: 97, class_loss = 0.032041, iou_loss = 212.143784, total_loss = 212.175827 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.938637), count: 47, class_loss = 0.000702, iou_loss = 24.334057, total_loss = 24.334759 
+ total_bbox = 13479338, rewritten_bbox = 0.368245 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.882769), count: 51, class_loss = 2.403330, iou_loss = 405.171875, total_loss = 407.575195 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.940354), count: 85, class_loss = 1.874618, iou_loss = 173.223877, total_loss = 175.098495 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.937767), count: 41, class_loss = 0.526191, iou_loss = 23.133389, total_loss = 23.659580 
+ total_bbox = 13479515, rewritten_bbox = 0.368240 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.795525), count: 27, class_loss = 1.789834, iou_loss = 136.141159, total_loss = 137.931000 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.935696), count: 113, class_loss = 1.096217, iou_loss = 186.215149, total_loss = 187.311371 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.933388), count: 53, class_loss = 0.627017, iou_loss = 27.938448, total_loss = 28.565464 
+ total_bbox = 13479708, rewritten_bbox = 0.368235 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.896347), count: 82, class_loss = 4.803895, iou_loss = 692.109131, total_loss = 696.913025 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.917228), count: 122, class_loss = 3.531663, iou_loss = 240.494919, total_loss = 244.026581 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.933136), count: 57, class_loss = 0.643155, iou_loss = 32.299015, total_loss = 32.942169 
+ total_bbox = 13479968, rewritten_bbox = 0.368228 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.924043), count: 11, class_loss = 0.106416, iou_loss = 84.682312, total_loss = 84.788727 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.922514), count: 30, class_loss = 0.006922, iou_loss = 47.507568, total_loss = 47.514488 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.953215), count: 28, class_loss = 0.000028, iou_loss = 10.628551, total_loss = 10.628579 
+ total_bbox = 13480037, rewritten_bbox = 0.368233 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.909104), count: 14, class_loss = 0.467275, iou_loss = 103.096252, total_loss = 103.563530 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.954911), count: 52, class_loss = 0.009769, iou_loss = 85.981834, total_loss = 85.991600 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.939990), count: 30, class_loss = 0.008649, iou_loss = 13.363834, total_loss = 13.372483 
+ total_bbox = 13480133, rewritten_bbox = 0.368231 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.869860), count: 9, class_loss = 0.011477, iou_loss = 70.232735, total_loss = 70.244209 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.942302), count: 49, class_loss = 0.138158, iou_loss = 56.060863, total_loss = 56.199020 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.939814), count: 60, class_loss = 0.575615, iou_loss = 20.739737, total_loss = 21.315351 
+ total_bbox = 13480251, rewritten_bbox = 0.368228 % 
+OpenCV exception: wait_key_cv 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.906481), count: 19, class_loss = 0.219848, iou_loss = 130.752991, total_loss = 130.972839 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.933169), count: 46, class_loss = 0.303257, iou_loss = 93.258377, total_loss = 93.561638 
+v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 161 Avg (IOU: 0.940015), count: 16, class_loss = 0.101549, iou_loss = 7.852911, total_loss = 7.954460 
+ total_bbox = 13480332, rewritten_bbox = 0.368225 % 
+6000/6000: loss=0.8 hours left=0.1
+ 6000: 0.823923, 0.799482 avg loss, 0.000013 rate, 5.384661 seconds, 384000 images, 0.135930 hours left
