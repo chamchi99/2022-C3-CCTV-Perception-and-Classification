@@ -1,6 +1,7 @@
  896 x 896 
  try to allocate additional workspace_size = 617.96 MB 
  CUDA allocate done! 
+
 Loaded: 3.925102 seconds - performance bottleneck on CPU or Disk HDD/SSD
 v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 139 Avg (IOU: 0.921557), count: 11, class_loss = 0.048912, iou_loss = 95.619179, total_loss = 95.668091 
 v3 (iou loss, Normalizer: (iou: 0.07, obj: 1.00, cls: 1.00) Region 150 Avg (IOU: 0.947638), count: 26, class_loss = 0.050846, iou_loss = 49.003555, total_loss = 49.054401 
