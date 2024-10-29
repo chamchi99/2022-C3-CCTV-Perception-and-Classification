@@ -1,3 +1,4 @@
+
 96 x 896 
  try to allocate additional workspace_size = 617.96 MB 
  CUDA allocate done! 
