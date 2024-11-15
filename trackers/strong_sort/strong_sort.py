@@ -1,4 +1,4 @@
-uji
+kuji
 o;l
 import numpy as np
 import torch
