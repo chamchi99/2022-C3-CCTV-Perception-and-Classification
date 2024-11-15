@@ -1,15 +1,3 @@
-kkk
-
-jiii
-
-ikkkkk
-iii
-ii
-kiiiiii
-
-iiikkk
-kuji
-o;l
 import numpy as np
 import torch
 import sys
