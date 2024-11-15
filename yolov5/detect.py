@@ -1,26 +1,3 @@
-l
-kjkk
-jjjja
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # YOLOv5 🚀 by Ultralytics, GPL-3.0 license
 """
